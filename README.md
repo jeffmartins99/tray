@@ -3,6 +3,8 @@
 Projetinho feito em laravel
 (ao subir online, apontar para a pasta public)
 
+#Banco
+Utilizei o nome de traydb no meu banco, não que isto afete, mas só informando
 
 #Database/Migrations
 #Na pasta Database/Migrations, está as tabelas do banco. 
