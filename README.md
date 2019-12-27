@@ -1,7 +1,10 @@
 # tray
 
 Projetinho feito em laravel
-(ao subir online, apontar para a pasta public)
+todos os arquivos estão aqui ou compactado no Gdrive: https://drive.google.com/open?id=18a3xlgfnB-H1nBtn78MN0Do7846Bh8Pu
+
+Obs: ao subir online, apontar para a pasta public (Localhost/tray/public ou o caminho que extraiu)
+
 
 #Banco
 Utilizei o nome de traydb no meu banco, não que isto afete, mas só informando
